@@ -1,6 +1,6 @@
-# Hello there 🍉  🐷
+# Hello there 🙆‍♂ 🐷
 
-<a href="#"><img align="center" width="100%" height="auto" src="https://github.com/sudsh/sudsh/blob/main/%C4%90%E1%BA%B7ng%20S%C6%A1n%20H%C3%A0%20-%20Su/cb9c054874648d3ad475.jpg" style="object-fit: cover;"></a>
+<a href="#"><img align="center" width="100%" height="auto" src="https://github.com/sudsh/sudsh/blob/main/%C4%90%E1%BA%B7ng%20S%C6%A1n%20H%C3%A0%20-%20Su/InShot_20220720_041150843.jpg" style="object-fit: cover;"></a>
 
 I'm ✨ Đặng Sơn Hà ✨ university student of Vietnam Academy of Cryptography Techniques (KMA)
 
@@ -26,6 +26,7 @@ Here are some ideas to get you started:
  - view photos via `Instagram` : [su_dsh](https://www.instagram.com/su_dsh)   🔭
  - please skip this `VOZ` : [haxichlo.86](https://voz.vn/u/haxichlo-86.1681136)   🚽
  
+ ## Thanks for visiting 🙏
  <a href="#"><img align="center" width="100%" height="auto" src="https://github.com/sudsh/sudsh/blob/main/%C4%90%E1%BA%B7ng%20S%C6%A1n%20H%C3%A0%20-%20Su/oceanwaves7.jpg" style="object-fit: cover;"></a>
 
 <!-- ## Listen 🎧
